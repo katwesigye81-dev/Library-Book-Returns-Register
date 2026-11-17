@@ -1,0 +1,16 @@
+# returnId|accession|title|borrowerId|returnDate|daysLate|fineUGX
+1001|LIB-004512|Introduction to Algorithms|2400100123|2026-11-03|0|0
+1002|LIB-001208|Data Structures and Algorithm Analysis in C++|2400100456|2026-11-05|2|1000
+1003|LIB-007731|Operating System Concepts|2300200789|2026-11-03|0|0
+1004|LIB-003345|The C++ Programming Language|2200300012|2026-10-30|5|2500
+1005|LIB-009021|Database System Concepts|2400100901|2026-11-05|0|0
+1006|LIB-002876|Computer Networks|2300200333|2026-11-02|1|500
+1007|LIB-005540|Discrete Mathematics and Its Applications|2400100777|2026-11-03|3|1500
+1008|LIB-008119|Software Engineering|2200300555|2026-11-04|0|0
+1009|LIB-006402|Clean Code|2400100222|2026-11-05|7|3500
+1010|LIB-004987|Artificial Intelligence: A Modern Approach|2300200888|2026-10-30|0|0
+1011|LIB-001734|Principles of Economics|2400100345|2026-11-02|0|0
+1012|LIB-003890|Things Fall Apart|2200300999|2026-11-04|4|2000
+1013|LIB-010256|Calculus: Early Transcendentals|2400100654|2026-11-06|0|0
+1014|LIB-002019|Physics for Scientists and Engineers|2300200147|2026-11-03|2|1000
+1015|LIB-007008|Linear Algebra and Its Applications|2200300421|2026-11-06|1|500
