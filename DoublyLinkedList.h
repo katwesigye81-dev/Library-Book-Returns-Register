@@ -1,7 +1,4 @@
-// DoublyLinkedList.h  --  Task A1: hand-written doubly linked list (class template)
-// No STL containers are used. T must be default-constructible and copyable, and for the
-// file functions must provide:   std::string T::toLine() const   and
-//                                static bool T::fromLine(const std::string&, T&)
+// DoublyLinkedList.h  --  Task A1: hand-written doubly linked list
 #pragma once
 #include <cstddef>
 #include <fstream>
